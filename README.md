@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on HFT project <br>👯 I’m looking to collaborate with Data Analysts , Data Scientists<br>🌱 I’m currently learning Deep Learning ...<br>
+<br>👯 I’m looking to collaborate with Data Analysts , Data Scientists<br>🌱 I’m currently learning Deep Learning ...<br>
 
 
 ## 🌐 Socials:
